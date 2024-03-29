@@ -2,4 +2,4 @@
 
 <h2>Sobre</h2>
 
-<p>Projeto Imersão Python: Trablhando com Excel e Análise de Dados e as Bibliotecas da Liguagem Python</p>
+<p>Projeto Imersão Python: Trabalhando com Excel e Análise de Dados de Ações utilizando Bibliotecas da Liguagem Python</p>
